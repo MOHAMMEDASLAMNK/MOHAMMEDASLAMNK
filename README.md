@@ -5,12 +5,13 @@
 - :sunglasses: I’m currently working on Home Automation :wink:;
 - 🌱 I’m currently learning PCB Designing;
 - 💬 Ask me about Home Automation, I am happy to help;
-- 
+
 <br/>
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+<code><img height="40" src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-c-programming.svg"></code>
 <code><img height="40" src="https://github.com/MOHAMMEDASLAMNK/MOHAMMEDASLAMNK/blob/main/logo/icons8-arduino.svg"></code>
 <code><img height="40" src="https://github.com/MOHAMMEDASLAMNK/MOHAMMEDASLAMNK/blob/main/logo/icons8-c%2B%2B.svg"></code>
 <code><img height="40" src="https://github.com/MOHAMMEDASLAMNK/MOHAMMEDASLAMNK/blob/main/logo/icons8-python.svg"></code>
