@@ -35,5 +35,21 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDASLAMNK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117
 <br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href="https://twitter.com/iamAslamNK">
+  <img align="left" alt="Aslam | Twitter" width="40px" height="40px" src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mohammed-aslam-nk-7a4aa6138/">
+  <img align="left" alt="Aslam | Linkedin" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-linkedin-2.svg" />
+</a>
+<a href="https://www.instagram.com/mohammedaslamnk/">
+  <img align="left" alt="Aslam | Instagram" width="40px" height="40px"  src="https://github.com/rafitc/rafitc/blob/main/icons/icons8-instagram-logo.svg" />
+</a>
+</p>
+
+  <br />
