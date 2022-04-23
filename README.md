@@ -16,6 +16,8 @@
 <code><img height="40" src="https://github.com/MOHAMMEDASLAMNK/MOHAMMEDASLAMNK/blob/main/logo/icons8-python.svg"></code>
 <code><img height="40" src="https://github.com/MOHAMMEDASLAMNK/MOHAMMEDASLAMNK/blob/main/logo/icons8-c-programming.svg"></code>
 <code><img height="40" src="https://github.com/MOHAMMEDASLAMNK/MOHAMMEDASLAMNK/blob/main/logo/1007353.png"></code>
+<code><img height="40" src="https://github.com/MOHAMMEDASLAMNK/MOHAMMEDASLAMNK/blob/main/logo/tasmota.png"></code>
+  
 </p>
 
 <br/>
