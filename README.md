@@ -5,6 +5,7 @@
 - :sunglasses: I’m currently working on Home Automation :wink:;
 - 🌱 I’m currently learning PCB Designing;
 - 💬 Ask me about Home Automation, I am happy to help;
+- 📫 How to reach me: Mohammedaslammk@gmail.com
 
 <br/>
 
