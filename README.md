@@ -2,11 +2,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻:System Engineer by profession
+- 💻: System Engineer by profession
 - 😎: I’m currently working on Home Automation :wink:;
-- 🌱 I’m currently learning PCB Designing;
-- 💬 Ask me about Home Automation, I am happy to help;
-- 📫 How to reach me: Mohammedaslamnk@gmail.com
+- 🌱: I’m currently learning PCB Designing;
+- 💬: Ask me about Home Automation, I am happy to help;
+- 📫: How to reach me: Mohammedaslamnk@gmail.com
 
 <br/>
 
